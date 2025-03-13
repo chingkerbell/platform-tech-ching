@@ -1,3 +1,3 @@
-# Microproject in ITE401
+# code challenge
 
 ### Author: Krisbel Dainne Evangelio
